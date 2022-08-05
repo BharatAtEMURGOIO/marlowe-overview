@@ -1,6 +1,7 @@
-## In this activity, we will take a look at the Marlowe Build IDE and understand more about how Marlowe contracts can be 
-written, simulated and modified.
+## Marlowe Build Demo 
 
-### Visit https://marlowe-playground-staging.plutus.aws.iohkdev.io/#/
+In this activity, we will take a look at the Marlowe Build IDE and understand more about how Marlowe contracts can be written, simulated and modified.
 
-### Load the various samples, take a look at the various blocks and functionality
+#### Visit https://marlowe-playground-staging.plutus.aws.iohkdev.io/#/
+
+#### Load the various samples, take a look at the various blocks and functionality
