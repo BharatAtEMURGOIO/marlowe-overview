@@ -15,13 +15,14 @@ Use one of these links to install a Daedalus wallet connected to the pioneers ne
 - Daedalus for Marlowe will be installed in your system.
 - Sync Daedalus to the testnet (will take a long time!)
 
-#### Get some TestADA from the faucet
-```
-#Note:  $ADDRESS is the address of the wallet you want to fund
-curl -XPOST https://faucet.pioneers.testnet.marlowe-finance.io/send-money/$ADDRESS 
-```
 #### Create 3 wallets (Marlowe1, Marlowe2, Marlowe3) using Daedalus
   NOTE: don't forget to backup the seed phrases for all the 3 wallets!
+
+#### Get some TestADA from the faucet (Note: $ADDRESS is the address of the Marlowe1 wallet that you must first fund)
+
+```
+curl -XPOST https://faucet.pioneers.testnet.marlowe-finance.io/send-money/$ADDRESS_Marlowe1 
+```
 
 #### Transfer some funds from the first wallet to the other 2 wallets using Daedalus
 
